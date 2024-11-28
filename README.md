@@ -1,6 +1,7 @@
 # Therium
 Therium: 81% UNC.
-![image](https://github.com/user-attachments/assets/cd842f83-a95b-4282-9bc8-ca142780f8bc)
+![image](https://github.com/user-attachments/assets/ab7521bd-416c-4fd8-90e6-3d2e430043c9)
+
 
 
 # With a simple, but understandable UI, You can use this flawlessly!
