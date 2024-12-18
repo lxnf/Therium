@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "url": "https://github.com/lxnf/Therium/raw/refs/heads/main/T.zip"
+    }
+  ],
+  "entry_point": "TheriumButBetter.exe"
+}
