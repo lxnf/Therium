@@ -5,5 +5,5 @@
       "url": "https://github.com/lxnf/Therium/raw/refs/heads/main/T.zip"
     }
   ],
-  "entry_point": "TheriumButBetter.exe"
+"entry_point": "T/TheriumButBetter.exe"
 }
