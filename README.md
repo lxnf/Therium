@@ -4,7 +4,7 @@ Therium: 81% UNC.
 
 
 
-# With a simple, but understandable UI, You can use this flawlessly!
+# With a simple UI, You can use this flawlessly!
 ![image](https://github.com/user-attachments/assets/80d0844a-7bab-49c1-b478-797b91212d92)
 
 
