@@ -10,7 +10,7 @@ Therium: 81% UNC.
 
 
 # How to use this?
-First of all, download it (ofc) https://github.com/lxnf/Therium/raw/refs/heads/main/TheriumV2.1.1.zip
+First of all, download it from the Releases tab.
 Then, Join the game you want to use this on, Open the .exe, Inject, Paste your desired script into the textbox, and press execute! If everything went well, It should work.
 
 # Is this paid?
